@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExamenEj2</string>
+    <string name="canvasContentDescription">Este es un juego de pong </string>
+</resources>
